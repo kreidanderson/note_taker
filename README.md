@@ -1,5 +1,7 @@
 # The Note Taker
 
+![Note Taker](./groceries.png)
+
 ## Table of Contents
 1. [Goals](#Goals)
 2. [Process](#Process)

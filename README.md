@@ -1,6 +1,6 @@
 # The Note Taker
 
-![Note Taker](groceries.png)
+![Note Taker]\(groceries.png)
 
 ## Table of Contents
 1. [Goals](#Goals)
